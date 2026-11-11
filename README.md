@@ -3,20 +3,38 @@
 
 ## <b>Project Overview</b>
 
-### <b>Application Name: [Name]</b> <br>
+### Application Name: [Name]
 **This project is a <b>database-driven web application</b>
 
-### <b>Problem to Solve:</b> <br>
+### Problem to Solve:
 
-### <b>Intended Users:</b> <br>
+### Intended Users:
 
 ### Planned Features:
 Track inventory of instruments, equipment, uniforms, and folders <br>
 Track the conditions of inventories (i.e., Excellent, Great, Good, Poor) <br>
 Track the qualities of [maybe just instruments and some equipment] (i.e., Professional, Intermediate, Beginner) <br>
 
-### <b>Planned Technologies:</b> <br>
+### Planned Technologies:
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Technology</th>
+      <th scope="col">Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[Tech 1]</td>
+      <td>[Description 1]</td>
+    </tr>
+    <tr>
+      <td>[Tech 2]</td>
+      <td>[Description 2]</td>
+    </tr>
+  </tbody>
+</table>
 
-### <b>data/model/API plan</b> <br>
+### Data/model/API plan:
 
-### <b>Anticipated Challenges:</b> <br>
+### Anticipated Challenges:
