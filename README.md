@@ -42,13 +42,19 @@ Track the qualities of [maybe just instruments and some equipment] (i.e., Profes
 </table>
 
 ### Data/Model Plan:
-Student: ID, Name, Email <br>
-Staff: ID, Name (of Director, Assistants, or Student Leaders) <br>
-Instrument: ID, Name (Flute, Bass Clarinet, Baritone Saxophone, String Bass, etc.), Condition, Quality, Status <br>
-Equipment: ID, Name (Mutes, Mics, Drum Sticks, Mallets), Status <br>
-UniformPiece: ID, Part (Shako, Jacket, Bibbers, Gauntlet), Number (can be blank), Size (can be blank), Status <br>
-Folder: ID, Number, Student ID (can be blank because not all folders are used)<b>(No Checkout because students pick them up themselves, and they are expected to return them within a timeframe)</b> <br>
-Checkout: ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in item's table), Student ID, Date Checked Out, Date Checked In (blank until returned), Checked Out By (Staff), Checked In By (Staff) (blank until returned) <br>
+<b>Student</b>: ID, Name, Email <br>
+
+<b>Staff:</b> ID, Name (of Director, Assistants, or Student Leaders) <br>
+
+<b>Instrument:</b> ID, Name (Flute, Bass Clarinet, Baritone Saxophone, String Bass, etc.), Condition, Quality, Status <br>
+
+<b>Equipment:</b> ID, Name (Mutes, Mics, Drum Sticks, Mallets), Status <br>
+
+<b>UniformPiece:</b> ID, Part (Shako, Jacket, Bibbers, Gauntlet), Number (can be blank), Size (can be blank), Status <br>
+
+<b>Folder:</b> ID, Number, Student ID (can be blank because not all folders are used) <b>(No Checkout because students pick them up themselves, and they are expected to return them within a timeframe)</b> <br>
+
+<b>Checkout:</b> ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in item's table), Student ID, Date Checked Out, Date Checked In (blank until returned), Checked Out By (Staff), Checked In By (Staff) (blank until returned) <br>
 
 [On Checked Out/In By, add dropdown menu]
 
