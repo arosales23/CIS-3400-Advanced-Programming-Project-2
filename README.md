@@ -53,9 +53,20 @@ Checkout: ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in it
 [On Checked Out/In By, add dropdown menu]
 
 ### Preliminary Interface Sketch:
-<img src="streamlit-dash.png" alt="Description of the image">
-<img src="path/to/image.jpg" alt="Description of the image">
-<img src="path/to/image.jpg" alt="Description of the image">
+<figure>
+  <figurecaption>Example of the Dashboard Page</figurecaption>
+  <img src="streamlit-dash.png" alt="Example of Dashboard Page:">
+</figure>
+
+<figure>
+  <figurecaption>Sketch of Checkout Page</figurecaption>
+  <img src="streamlit-out.png" alt="Sketch of Checkout Page:">
+</figure>
+
+<figure>
+  <figurecaption>Sketch of Student Page</figurecaption>
+  <img src="streamlit-stu.png" alt="Sketch of Student Page:">
+</figure>
 
 ### Anticipated Challenges:
 Modeling uniforms as separate parts, since most students have mismatched numbers.
