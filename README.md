@@ -52,8 +52,10 @@ Checkout: ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in it
 
 [On Checked Out/In By, add dropdown menu]
 
-### Preliminary Interface Sketch
-
+### Preliminary Interface Sketch:
+<img src="path/to/image.jpg" alt="Description of the image">
+<img src="path/to/image.jpg" alt="Description of the image">
+<img src="path/to/image.jpg" alt="Description of the image">
 
 ### Anticipated Challenges:
 Modeling uniforms as separate parts, since most students have mismatched numbers.
