@@ -3,7 +3,7 @@ A web app that lets band directors track instruments, uniforms, and equipment, a
 
 ## <b>Project Overview</b>
 
-### Application Name: [Name]
+### Application Name: Loan Ranger
 **This project is a <b>database-driven web application</b>
 
 ### Problem to Solve:
