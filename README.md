@@ -53,7 +53,7 @@ Checkout: ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in it
 [On Checked Out/In By, add dropdown menu]
 
 ### Preliminary Interface Sketch:
-<img src="path/to/image.jpg" alt="Description of the image">
+<img src="streamlit-dash.png" alt="Description of the image">
 <img src="path/to/image.jpg" alt="Description of the image">
 <img src="path/to/image.jpg" alt="Description of the image">
 
