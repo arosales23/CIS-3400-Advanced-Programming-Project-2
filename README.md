@@ -48,7 +48,7 @@ Instrument: ID, Name (Flute, Bass Clarinet, Baritone Saxophone, String Bass, etc
 Equipment: ID, Name (Mutes, Mics, Drum Sticks, Mallets), Status <br>
 UniformPiece: ID, Part (Shako, Jacket, Bibbers, Gauntlet), Number (can be blank), Size (can be blank), Status <br>
 Folder: ID, Number, Student ID (can be blank because not all folders are used)<b>(No Checkout because students pick them up themselves, and they are expected to return them within a timeframe)</b> <br>
-Checkout: ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in item table), Student ID, Date Checked Out, Date Checked In (blank until returned), Checked Out By (Staff), Checked In By (Staff) (blank until returned) <br>
+Checkout: ID, Item Type (Instrument, Equipment, UniformPiece), Item ID (ID in item's table), Student ID, Date Checked Out, Date Checked In (blank until returned), Checked Out By (Staff), Checked In By (Staff) (blank until returned) <br>
 
 [On Checked Out/In By, add dropdown menu]
 
