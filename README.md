@@ -75,7 +75,7 @@ Track the qualities of [maybe just instruments and some equipment] (i.e., Profes
 </figure>
 
 ### Anticipated Challenges:
-Modeling uniforms as separate parts, since most students have mismatched numbers.
-Preventing one item from being checked out more than once
-Handling retired items without losing history
-Possibly importing inventory from existing spreadsheets
+Modeling uniforms as separate parts, since most students have mismatched numbers. <br>
+Preventing one item from being checked out more than once. <br>
+Handling retired items without losing history. <br>
+Possibly importing inventory from existing spreadsheets. <br>
